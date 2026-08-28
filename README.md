@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="adam.jpeg" width="100%" alt="Kevin Hernandez Data Analytics Banner">
+</p>
+
 # 💫 About Me:
 Data Analyst
 
