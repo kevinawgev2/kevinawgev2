@@ -11,6 +11,7 @@
 # About Me:
 Data Analyst, Expertise in Python, Power BI, Excel, SQL, R, Tableau. UNC-Chapel Hill Alumni.
 
+"Failure is simply the opportunity to begin again, this time more intelligently"
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinawge) 
