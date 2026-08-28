@@ -9,7 +9,7 @@
 </p>
 
 # About Me:
-Data Analyst
+Data Analyst, Expertise in Python, Power BI, Excel, SQL, R, Tableau. UNC-Chapel Hill Alumni.
 
 
 ## Socials:
