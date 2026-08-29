@@ -11,7 +11,7 @@
 # About Me:
 Data Analyst, Expertise in Python, Power BI, Excel, SQL, R, Tableau. UNC-Chapel Hill Alumni.
 
-"Strive On Unitiringly"
+"Strive On Untiringly"
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevinawge) 
